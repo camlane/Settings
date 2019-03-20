@@ -7,6 +7,6 @@ Customised zsh script
 
 Sublime text settings
 
-MobaXterm configuration
+MobaXterm configuration 
 
 DbVisualiser settings (with dark theme)

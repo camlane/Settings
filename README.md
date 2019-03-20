@@ -1,9 +1,12 @@
 # Settings
-Customised zsh
+Intellij live and custom postfix templates
 
-DbVisualiser settings (with dark theme)
+Intellij customised Solarized Darcula theme
+
+Customised zsh
 
 Sublime text settings
 
 MobaXterm configuration
 
+DbVisualiser settings (with dark theme)

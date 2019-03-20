@@ -3,7 +3,7 @@ Intellij live and custom postfix templates
 
 Intellij customised Solarized Darcula theme
 
-Customised zsh
+Customised zsh script
 
 Sublime text settings
 
